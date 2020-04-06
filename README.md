@@ -25,9 +25,9 @@ Requirement: This course requires basic familiarity with Python and an IDE (Jupy
 
 ## Technical Requirements <br/>
 #### Software Requirements<br/>
-• Operating system: any
-• Browser: any modern browser
-• Any Python IDE, Jupyter Notebook or Google Colab
+• Operating system: any<br/>
+• Browser: any modern browser<br/>
+• Any Python IDE, Jupyter Notebook or Google Colab<br/>
 • Tensorboard 2.1 or higher, PyTorch 1.3 or higher
 <br/>
 
